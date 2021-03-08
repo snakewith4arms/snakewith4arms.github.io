@@ -3,15 +3,15 @@
 
 # Some neat pictures...
 
-I took some kids to a nearby lake where we made a fire on the ice and made s'mores. I also really like chocolate and graham crackers, but dislike marshmellows. After the fire the kids buried each other. I helped.
+I took some kids to a nearby lake where we made a fire on the ice and made s'mores. I also really like chocolate and graham crackers, but dislike marshmallows. After the fire the kids buried each other. I helped.
 
-<img src=https://user-images.githubusercontent.com/80181083/110267552-ae810100-7f85-11eb-9cad-24c076580a62.jpg width="300">
+![Buried alive](https://user-images.githubusercontent.com/80181083/110267552-ae810100-7f85-11eb-9cad-24c076580a62.jpg)
 
 This winter sometimes I would ski on my lunch break at work. I played on this hill on a day we had some nice fresh snow.
 
-<img src=https://user-images.githubusercontent.com/80181083/110267063-ac6a7280-7f84-11eb-8190-aae28772a39e.jpg width="300">
+![ski tracks](https://user-images.githubusercontent.com/80181083/110267063-ac6a7280-7f84-11eb-8190-aae28772a39e.jpg)
 
 
 This is a hot spring in California we loved. We came here a couple mornings. The water was pretty hot and the mornings were cool, clear, and quiet.
 
-<img src=https://user-images.githubusercontent.com/80181083/110270065-a2e40900-7f8a-11eb-9628-58cfa59ffb0e.jpg width="300">
+![hot springs](https://user-images.githubusercontent.com/80181083/110270065-a2e40900-7f8a-11eb-9628-58cfa59ffb0e.jpg)
