@@ -1,12 +1,14 @@
-## DragonCat is my Mystery Friend!
+# DragonCat is my Mystery Friend!
+
+
 I hope you like this web page. I thought it'd be a fun way to share stuff with you.
 
-![DragonCat](https://photos.app.goo.gl/7kKAFGLbRm1PqPEq8)
+![dragoncat](https://user-images.githubusercontent.com/80181083/110267478-81cce980-7f85-11eb-89ef-76147ab83b52.jpg)
 
 
 
 ### Last weekend...
-I took some kids to a nearby lake where we made a fire on the ice and made s'mores. I also really like chocolate and graham crackers, but dislike marshmellows. After the fire the kids buried each other. I helped. ![Buried Alive!!!](https://photos.app.goo.gl/L74T9cqZFgZPASzd7)
+I took some kids to a nearby lake where we made a fire on the ice and made s'mores. I also really like chocolate and graham crackers, but dislike marshmellows. After the fire the kids buried each other. I helped. ![Buried Alive!!!](https://user-images.githubusercontent.com/80181083/110267552-ae810100-7f85-11eb-9cad-24c076580a62.jpg)
 
 ### Some neat pictures
 
