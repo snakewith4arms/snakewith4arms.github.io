@@ -10,5 +10,4 @@ I took some kids to a nearby lake where we made a fire on the ice and made s'mor
 
 ### Some neat pictures
 
-This winter sometimes I would ski on my lunch break at work. I played on this hill on a day we had some nice fresh snow. ![ski tracks](https://photos.app.goo.gl/ct8pQqcSa7bKhD6N9)
-
+This winter sometimes I would ski on my lunch break at work. I played on this hill on a day we had some nice fresh snow. ![ski tracks](https://user-images.githubusercontent.com/80181083/110267063-ac6a7280-7f84-11eb-8190-aae28772a39e.jpg)
