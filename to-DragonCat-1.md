@@ -1,6 +1,3 @@
-layout: page
-title: "March 7 letter to Dragoncat"
-permalink: /to-DragonCat-1.md/
 
 ### Hi Dragoncat,
 ### I hope you had a good week. I'm interested to hear what you've been up to. What are you reading? What is school like for you? Are you doing school at home, at school, or a mix? My kids are now in school all week for the first time in a long time. They're happier being there with their friends but we all worry about people getting sick with covid. Quite a few teachers and others who work at at the school have been vaccinated.
@@ -27,6 +24,6 @@ This winter sometimes I would ski on my lunch break at work. I played on this hi
 ![ski tracks](https://user-images.githubusercontent.com/80181083/110267063-ac6a7280-7f84-11eb-8190-aae28772a39e.jpg)
 
 
-This is a hot spring in California we loved. We came here a couple mornings. The water was pretty hot and the mornings were cool, clear, and quiet.
+This is a hot spring in California we loved. We came here a couple mornings. The water was pretty hot and the mornings were cool, clear, and quiet. This is from a few years ago
 
 ![hot springs](https://user-images.githubusercontent.com/80181083/110270065-a2e40900-7f8a-11eb-9628-58cfa59ffb0e.jpg)
