@@ -1,3 +1,7 @@
+layout: page
+title: "March 7 letter to Dragoncat"
+permalink: /to-DragonCat-1.md/
+
 ### Hi Dragoncat,
 ### I hope you had a good week. I'm interested to hear what you've been up to. What are you reading? What is school like for you? Are you doing school at home, at school, or a mix? My kids are now in school all week for the first time in a long time. They're happier being there with their friends but we all worry about people getting sick with covid. Quite a few teachers and others who work at at the school have been vaccinated.
 
