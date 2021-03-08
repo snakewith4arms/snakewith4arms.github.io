@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## DragonCat is my Mystery Friend!
+I hope you like this web page. I thought it'd be a fun way to share stuff with you.
 
-You can use the [editor on GitHub](https://github.com/snakewith4arms/snakewith4arms.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![DragonCat](https://photos.app.goo.gl/7kKAFGLbRm1PqPEq8)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Last weekend...
+I took some kids to a nearby lake where we made a fire on the ice and made s'mores. I also really like chocolate and graham crackers, but dislike marshmellows. After the fire the kids buried each other. I helped. ![Buried Alive!!!](https://photos.app.goo.gl/L74T9cqZFgZPASzd7)
 
-```markdown
-Syntax highlighted code block
+### Some neat pictures
 
-# Header 1
-## Header 2
-### Header 3
+This winter sometimes I would ski on my lunch break at work. I played on this hill on a day we had some nice fresh snow. ![ski tracks](https://photos.app.goo.gl/ct8pQqcSa7bKhD6N9)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snakewith4arms/snakewith4arms.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
